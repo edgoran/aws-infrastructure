@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.suo
+bin/
+obj/
+cdk.out/
+cdk.context.json
+deploy.ps1
